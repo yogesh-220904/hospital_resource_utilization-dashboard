@@ -1,0 +1,8 @@
+# Power BI temporary files
+*.cache
+*.temp
+*.pbi/
+
+# OS junk
+.DS_Store
+Thumbs.db
